@@ -1,11 +1,5 @@
-import csv
 import statistics
 import mysql.connector
-
-#outfile = open("output.csv",'w')
-#outfile_header = "First Name, Surname, Average, Grade\n"
-#outfile.write(outfile_header)
-
 
 dbCollege = mysql.connector.connect(
   host="localhost",
