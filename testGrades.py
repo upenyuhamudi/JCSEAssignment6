@@ -2,9 +2,11 @@ import csv
 import statistics
 import mysql.connector
 
-outfile = open("output.csv",'w')
-outfile_header = "First Name, Surname, Average, Grade\n"
-outfile.write(outfile_header)
+#outfile = open("output.csv",'w')
+#outfile_header = "First Name, Surname, Average, Grade\n"
+#outfile.write(outfile_header)
+
+
 dbCollege = mysql.connector.connect(
   host="localhost",
   user="admin",
@@ -14,6 +16,7 @@ dbCollege = mysql.connector.connect(
 mycursor = dbCollege.cursor()
 mycursor.execute("SELECT * FROM student")
 sql_reader = mycursor.fetchall()
+sql_grades = "INSERT INTO grades (Firstname, Surname, Average, Grade) VALUES (%s,%s,%s,%s)"
 
 for line in sql_reader:
         student_first_name = line[1]
@@ -32,7 +35,8 @@ for line in sql_reader:
         elif avg_mark >=40:
             grade = "E"
         elif avg_mark >=0:
-            grade = "F"         
-        line = "{},{},{},{}\n".format(student_first_name,student_last_name,avg_mark,grade)
-        outfile.write(line)
-outfile.close()        
+            grade = "F"          
+        val = [(student_first_name,student_last_name,avg_mark,grade)]
+        mycursor.executemany(sql_grades, val)
+dbCollege.commit()
+       
