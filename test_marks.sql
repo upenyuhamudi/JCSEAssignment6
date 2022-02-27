@@ -19,4 +19,10 @@ INSERT INTO student(studentid,Firstname,Surname,Algebra,Calculus,Programming,DBa
 INSERT INTO student(studentid,Firstname,Surname,Algebra,Calculus,Programming,DBases) VALUES ('9','Hans','Meier',57,87,95,64);
 INSERT INTO student(studentid,Firstname,Surname,Algebra,Calculus,Programming,DBases) VALUES ('10','Jackie','Brown',97,91,86,73);
 
-
+CREATE TABLE grades(
+	studentid integer NOT NULL PRIMARY KEY,
+   Firstname   VARCHAR(6) NOT NULL 
+  ,Surname     VARCHAR(8) NOT NULL
+  ,Average     INTEGER  NOT NULL
+  ,Grade     VARCHAR(8) NOT NULL
+);
