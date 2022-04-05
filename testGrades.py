@@ -1,5 +1,9 @@
 import statistics
+from time import asctime
 import mysql.connector
+import logging
+
+logging.basicConfig(filename='grades.log',level=logging.DEBUG,format='%(asctime)s:%(levelname)s:%(message)s')
 
 dbCollege = mysql.connector.connect(
   host="localhost",
@@ -31,6 +35,16 @@ for line in sql_reader:
         elif avg_mark >=0:
             grade = "F"          
         val = [(student_first_name,student_last_name,avg_mark,grade)]
+        
+        #Logging to check if correct names are added to database
+        logging.info('Created student record: {} {}'.format(student_first_name,student_last_name))
+
+        #Logging to check if average marks match the grades
+        logging.debug('Created average marks and grades check: {} - {}'.format(avg_mark,grade))
+    
         mycursor.executemany(sql_grades, val)
+        
 dbCollege.commit()
+
+
        
