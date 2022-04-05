@@ -498,3 +498,1543 @@ DEBUG:root:(86.8, 'A')
 2022-04-05 14:16:25,709:DEBUG:Created average marks and grades check: 75.8 - B
 2022-04-05 14:16:25,709:INFO:Created student record: Jackie Brown
 2022-04-05 14:16:25,709:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:23:06,064:INFO:Created student record: Joe Soap
+2022-04-05 14:23:06,064:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:23:06,064:INFO:Created student record: Jane Doe
+2022-04-05 14:23:06,064:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:23:06,065:INFO:Created student record: Mary Poppins
+2022-04-05 14:23:06,065:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:23:06,065:INFO:Created student record: Mario Rossi
+2022-04-05 14:23:06,065:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:23:06,066:INFO:Created student record: John Smith
+2022-04-05 14:23:06,066:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:23:06,066:INFO:Created student record: Tom Cruz
+2022-04-05 14:23:06,066:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:23:06,066:INFO:Created student record: Jim Beglin
+2022-04-05 14:23:06,067:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:23:06,067:INFO:Created student record: Peter Shmooks
+2022-04-05 14:23:06,067:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:23:06,067:INFO:Created student record: Hans Meier
+2022-04-05 14:23:06,067:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:23:06,068:INFO:Created student record: Jackie Brown
+2022-04-05 14:23:06,068:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:23:31,598:INFO:Created student record: Joe Soap
+2022-04-05 14:23:31,598:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:23:31,598:INFO:Created student record: Jane Doe
+2022-04-05 14:23:31,598:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:23:31,598:INFO:Created student record: Mary Poppins
+2022-04-05 14:23:31,598:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:23:31,598:INFO:Created student record: Mario Rossi
+2022-04-05 14:23:31,598:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:23:31,598:INFO:Created student record: John Smith
+2022-04-05 14:23:31,598:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:23:31,598:INFO:Created student record: Tom Cruz
+2022-04-05 14:23:31,598:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:23:31,598:INFO:Created student record: Jim Beglin
+2022-04-05 14:23:31,598:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:23:31,598:INFO:Created student record: Peter Shmooks
+2022-04-05 14:23:31,598:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:23:31,598:INFO:Created student record: Hans Meier
+2022-04-05 14:23:31,614:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:23:31,614:INFO:Created student record: Jackie Brown
+2022-04-05 14:23:31,614:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:23:41,779:INFO:Created student record: Joe Soap
+2022-04-05 14:23:41,779:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:23:41,779:INFO:Created student record: Jane Doe
+2022-04-05 14:23:41,779:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:23:41,779:INFO:Created student record: Mary Poppins
+2022-04-05 14:23:41,779:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:23:41,779:INFO:Created student record: Mario Rossi
+2022-04-05 14:23:41,779:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:23:41,779:INFO:Created student record: John Smith
+2022-04-05 14:23:41,779:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:23:41,779:INFO:Created student record: Tom Cruz
+2022-04-05 14:23:41,779:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:23:41,779:INFO:Created student record: Jim Beglin
+2022-04-05 14:23:41,779:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:23:41,779:INFO:Created student record: Peter Shmooks
+2022-04-05 14:23:41,795:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:23:41,795:INFO:Created student record: Hans Meier
+2022-04-05 14:23:41,795:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:23:41,795:INFO:Created student record: Jackie Brown
+2022-04-05 14:23:41,795:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:23:56,573:INFO:Created student record: Joe Soap
+2022-04-05 14:23:56,573:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:23:56,573:INFO:Created student record: Jane Doe
+2022-04-05 14:23:56,573:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:23:56,573:INFO:Created student record: Mary Poppins
+2022-04-05 14:23:56,573:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:23:56,573:INFO:Created student record: Mario Rossi
+2022-04-05 14:23:56,573:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:23:56,573:INFO:Created student record: John Smith
+2022-04-05 14:23:56,573:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:23:56,573:INFO:Created student record: Tom Cruz
+2022-04-05 14:23:56,573:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:23:56,573:INFO:Created student record: Jim Beglin
+2022-04-05 14:23:56,573:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:23:56,573:INFO:Created student record: Peter Shmooks
+2022-04-05 14:23:56,573:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:23:56,573:INFO:Created student record: Hans Meier
+2022-04-05 14:23:56,573:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:23:56,573:INFO:Created student record: Jackie Brown
+2022-04-05 14:23:56,573:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:25:06,354:INFO:Created student record: Joe Soap
+2022-04-05 14:25:06,354:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:25:06,355:INFO:Created student record: Jane Doe
+2022-04-05 14:25:06,355:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:25:06,356:INFO:Created student record: Mary Poppins
+2022-04-05 14:25:06,356:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:25:06,356:INFO:Created student record: Mario Rossi
+2022-04-05 14:25:06,356:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:25:06,357:INFO:Created student record: John Smith
+2022-04-05 14:25:06,357:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:25:06,358:INFO:Created student record: Tom Cruz
+2022-04-05 14:25:06,358:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:25:06,358:INFO:Created student record: Jim Beglin
+2022-04-05 14:25:06,358:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:25:06,359:INFO:Created student record: Peter Shmooks
+2022-04-05 14:25:06,359:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:25:06,359:INFO:Created student record: Hans Meier
+2022-04-05 14:25:06,359:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:25:06,360:INFO:Created student record: Jackie Brown
+2022-04-05 14:25:06,360:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:25:19,170:INFO:Created student record: Joe Soap
+2022-04-05 14:25:19,170:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:25:19,170:INFO:Created student record: Jane Doe
+2022-04-05 14:25:19,170:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:25:19,170:INFO:Created student record: Mary Poppins
+2022-04-05 14:25:19,170:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:25:19,170:INFO:Created student record: Mario Rossi
+2022-04-05 14:25:19,170:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:25:19,170:INFO:Created student record: John Smith
+2022-04-05 14:25:19,170:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:25:19,170:INFO:Created student record: Tom Cruz
+2022-04-05 14:25:19,170:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:25:19,170:INFO:Created student record: Jim Beglin
+2022-04-05 14:25:19,170:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:25:19,170:INFO:Created student record: Peter Shmooks
+2022-04-05 14:25:19,170:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:25:19,170:INFO:Created student record: Hans Meier
+2022-04-05 14:25:19,170:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:25:19,170:INFO:Created student record: Jackie Brown
+2022-04-05 14:25:19,170:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:25:32,768:INFO:Created student record: Joe Soap
+2022-04-05 14:25:32,768:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:25:32,768:INFO:Created student record: Jane Doe
+2022-04-05 14:25:32,768:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:25:32,768:INFO:Created student record: Mary Poppins
+2022-04-05 14:25:32,768:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:25:32,768:INFO:Created student record: Mario Rossi
+2022-04-05 14:25:32,768:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:25:32,768:INFO:Created student record: John Smith
+2022-04-05 14:25:32,768:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:25:32,768:INFO:Created student record: Tom Cruz
+2022-04-05 14:25:32,783:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:25:32,783:INFO:Created student record: Jim Beglin
+2022-04-05 14:25:32,783:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:25:32,783:INFO:Created student record: Peter Shmooks
+2022-04-05 14:25:32,783:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:25:32,783:INFO:Created student record: Hans Meier
+2022-04-05 14:25:32,783:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:25:32,783:INFO:Created student record: Jackie Brown
+2022-04-05 14:25:32,783:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:25:57,752:INFO:Created student record: Joe Soap
+2022-04-05 14:25:57,752:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:25:57,752:INFO:Created student record: Jane Doe
+2022-04-05 14:25:57,752:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:25:57,752:INFO:Created student record: Mary Poppins
+2022-04-05 14:25:57,752:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:25:57,752:INFO:Created student record: Mario Rossi
+2022-04-05 14:25:57,752:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:25:57,752:INFO:Created student record: John Smith
+2022-04-05 14:25:57,752:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:25:57,752:INFO:Created student record: Tom Cruz
+2022-04-05 14:25:57,752:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:25:57,752:INFO:Created student record: Jim Beglin
+2022-04-05 14:25:57,752:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:25:57,752:INFO:Created student record: Peter Shmooks
+2022-04-05 14:25:57,752:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:25:57,752:INFO:Created student record: Hans Meier
+2022-04-05 14:25:57,752:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:25:57,752:INFO:Created student record: Jackie Brown
+2022-04-05 14:25:57,752:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:26:03,898:INFO:Created student record: Joe Soap
+2022-04-05 14:26:03,898:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:26:03,898:INFO:Created student record: Jane Doe
+2022-04-05 14:26:03,898:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:26:03,898:INFO:Created student record: Mary Poppins
+2022-04-05 14:26:03,898:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:26:03,898:INFO:Created student record: Mario Rossi
+2022-04-05 14:26:03,898:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:26:03,898:INFO:Created student record: John Smith
+2022-04-05 14:26:03,898:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:26:03,898:INFO:Created student record: Tom Cruz
+2022-04-05 14:26:03,898:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:26:03,914:INFO:Created student record: Jim Beglin
+2022-04-05 14:26:03,914:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:26:03,914:INFO:Created student record: Peter Shmooks
+2022-04-05 14:26:03,914:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:26:03,914:INFO:Created student record: Hans Meier
+2022-04-05 14:26:03,914:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:26:03,914:INFO:Created student record: Jackie Brown
+2022-04-05 14:26:03,914:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:26:10,283:INFO:Created student record: Joe Soap
+2022-04-05 14:26:10,283:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:26:10,283:INFO:Created student record: Jane Doe
+2022-04-05 14:26:10,283:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:26:10,283:INFO:Created student record: Mary Poppins
+2022-04-05 14:26:10,283:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:26:10,283:INFO:Created student record: Mario Rossi
+2022-04-05 14:26:10,283:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:26:10,283:INFO:Created student record: John Smith
+2022-04-05 14:26:10,283:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:26:10,283:INFO:Created student record: Tom Cruz
+2022-04-05 14:26:10,283:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:26:10,283:INFO:Created student record: Jim Beglin
+2022-04-05 14:26:10,283:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:26:10,283:INFO:Created student record: Peter Shmooks
+2022-04-05 14:26:10,283:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:26:10,283:INFO:Created student record: Hans Meier
+2022-04-05 14:26:10,283:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:26:10,283:INFO:Created student record: Jackie Brown
+2022-04-05 14:26:10,283:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:26:17,048:INFO:Created student record: Joe Soap
+2022-04-05 14:26:17,048:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:26:17,048:INFO:Created student record: Jane Doe
+2022-04-05 14:26:17,048:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:26:17,048:INFO:Created student record: Mary Poppins
+2022-04-05 14:26:17,048:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:26:17,048:INFO:Created student record: Mario Rossi
+2022-04-05 14:26:17,048:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:26:17,048:INFO:Created student record: John Smith
+2022-04-05 14:26:17,048:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:26:17,048:INFO:Created student record: Tom Cruz
+2022-04-05 14:26:17,048:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:26:17,048:INFO:Created student record: Jim Beglin
+2022-04-05 14:26:17,064:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:26:17,064:INFO:Created student record: Peter Shmooks
+2022-04-05 14:26:17,064:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:26:17,064:INFO:Created student record: Hans Meier
+2022-04-05 14:26:17,064:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:26:17,064:INFO:Created student record: Jackie Brown
+2022-04-05 14:26:17,064:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:26:38,675:INFO:Created student record: Joe Soap
+2022-04-05 14:26:38,675:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:26:38,675:INFO:Created student record: Jane Doe
+2022-04-05 14:26:38,676:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:26:38,676:INFO:Created student record: Mary Poppins
+2022-04-05 14:26:38,676:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:26:38,676:INFO:Created student record: Mario Rossi
+2022-04-05 14:26:38,676:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:26:38,677:INFO:Created student record: John Smith
+2022-04-05 14:26:38,677:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:26:38,677:INFO:Created student record: Tom Cruz
+2022-04-05 14:26:38,677:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:26:38,677:INFO:Created student record: Jim Beglin
+2022-04-05 14:26:38,678:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:26:38,678:INFO:Created student record: Peter Shmooks
+2022-04-05 14:26:38,678:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:26:38,678:INFO:Created student record: Hans Meier
+2022-04-05 14:26:38,678:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:26:38,679:INFO:Created student record: Jackie Brown
+2022-04-05 14:26:38,679:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:26:53,911:INFO:Created student record: Joe Soap
+2022-04-05 14:26:53,911:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:26:53,911:INFO:Created student record: Jane Doe
+2022-04-05 14:26:53,911:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:26:53,911:INFO:Created student record: Mary Poppins
+2022-04-05 14:26:53,911:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:26:53,911:INFO:Created student record: Mario Rossi
+2022-04-05 14:26:53,911:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:26:53,911:INFO:Created student record: John Smith
+2022-04-05 14:26:53,911:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:26:53,911:INFO:Created student record: Tom Cruz
+2022-04-05 14:26:53,911:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:26:53,911:INFO:Created student record: Jim Beglin
+2022-04-05 14:26:53,911:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:26:53,911:INFO:Created student record: Peter Shmooks
+2022-04-05 14:26:53,911:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:26:53,911:INFO:Created student record: Hans Meier
+2022-04-05 14:26:53,911:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:26:53,911:INFO:Created student record: Jackie Brown
+2022-04-05 14:26:53,911:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:27:12,120:INFO:Created student record: Joe Soap
+2022-04-05 14:27:12,120:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:27:12,120:INFO:Created student record: Jane Doe
+2022-04-05 14:27:12,120:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:27:12,120:INFO:Created student record: Mary Poppins
+2022-04-05 14:27:12,120:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:27:12,120:INFO:Created student record: Mario Rossi
+2022-04-05 14:27:12,120:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:27:12,120:INFO:Created student record: John Smith
+2022-04-05 14:27:12,120:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:27:12,120:INFO:Created student record: Tom Cruz
+2022-04-05 14:27:12,120:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:27:12,120:INFO:Created student record: Jim Beglin
+2022-04-05 14:27:12,120:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:27:12,120:INFO:Created student record: Peter Shmooks
+2022-04-05 14:27:12,120:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:27:12,120:INFO:Created student record: Hans Meier
+2022-04-05 14:27:12,120:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:27:12,120:INFO:Created student record: Jackie Brown
+2022-04-05 14:27:12,120:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:27:33,747:INFO:Created student record: Joe Soap
+2022-04-05 14:27:33,747:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:27:33,748:INFO:Created student record: Jane Doe
+2022-04-05 14:27:33,748:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:27:33,748:INFO:Created student record: Mary Poppins
+2022-04-05 14:27:33,748:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:27:33,748:INFO:Created student record: Mario Rossi
+2022-04-05 14:27:33,749:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:27:33,749:INFO:Created student record: John Smith
+2022-04-05 14:27:33,749:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:27:33,749:INFO:Created student record: Tom Cruz
+2022-04-05 14:27:33,749:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:27:33,750:INFO:Created student record: Jim Beglin
+2022-04-05 14:27:33,750:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:27:33,750:INFO:Created student record: Peter Shmooks
+2022-04-05 14:27:33,750:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:27:33,751:INFO:Created student record: Hans Meier
+2022-04-05 14:27:33,751:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:27:33,751:INFO:Created student record: Jackie Brown
+2022-04-05 14:27:33,751:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:27:45,957:INFO:Created student record: Joe Soap
+2022-04-05 14:27:45,957:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:27:45,957:INFO:Created student record: Jane Doe
+2022-04-05 14:27:45,957:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:27:45,957:INFO:Created student record: Mary Poppins
+2022-04-05 14:27:45,957:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:27:45,957:INFO:Created student record: Mario Rossi
+2022-04-05 14:27:45,957:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:27:45,957:INFO:Created student record: John Smith
+2022-04-05 14:27:45,957:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:27:45,957:INFO:Created student record: Tom Cruz
+2022-04-05 14:27:45,957:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:27:45,957:INFO:Created student record: Jim Beglin
+2022-04-05 14:27:45,957:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:27:45,957:INFO:Created student record: Peter Shmooks
+2022-04-05 14:27:45,957:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:27:45,957:INFO:Created student record: Hans Meier
+2022-04-05 14:27:45,957:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:27:45,957:INFO:Created student record: Jackie Brown
+2022-04-05 14:27:45,957:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:29:19,018:INFO:Created student record: Joe Soap
+2022-04-05 14:29:19,018:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:29:19,019:INFO:Created student record: Jane Doe
+2022-04-05 14:29:19,019:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:29:19,020:INFO:Created student record: Mary Poppins
+2022-04-05 14:29:19,020:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:29:19,020:INFO:Created student record: Mario Rossi
+2022-04-05 14:29:19,021:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:29:19,021:INFO:Created student record: John Smith
+2022-04-05 14:29:19,021:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:29:19,022:INFO:Created student record: Tom Cruz
+2022-04-05 14:29:19,022:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:29:19,022:INFO:Created student record: Jim Beglin
+2022-04-05 14:29:19,022:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:29:19,023:INFO:Created student record: Peter Shmooks
+2022-04-05 14:29:19,023:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:29:19,024:INFO:Created student record: Hans Meier
+2022-04-05 14:29:19,024:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:29:19,024:INFO:Created student record: Jackie Brown
+2022-04-05 14:29:19,024:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:29:33,888:INFO:Created student record: Joe Soap
+2022-04-05 14:29:33,888:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:29:33,888:INFO:Created student record: Jane Doe
+2022-04-05 14:29:33,888:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:29:33,888:INFO:Created student record: Mary Poppins
+2022-04-05 14:29:33,888:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:29:33,888:INFO:Created student record: Mario Rossi
+2022-04-05 14:29:33,888:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:29:33,888:INFO:Created student record: John Smith
+2022-04-05 14:29:33,888:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:29:33,888:INFO:Created student record: Tom Cruz
+2022-04-05 14:29:33,888:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:29:33,888:INFO:Created student record: Jim Beglin
+2022-04-05 14:29:33,888:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:29:33,888:INFO:Created student record: Peter Shmooks
+2022-04-05 14:29:33,888:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:29:33,948:INFO:Created student record: Hans Meier
+2022-04-05 14:29:33,948:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:29:33,949:INFO:Created student record: Jackie Brown
+2022-04-05 14:29:33,949:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:29:44,017:INFO:Created student record: Joe Soap
+2022-04-05 14:29:44,017:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:29:44,017:INFO:Created student record: Jane Doe
+2022-04-05 14:29:44,017:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:29:44,017:INFO:Created student record: Mary Poppins
+2022-04-05 14:29:44,017:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:29:44,017:INFO:Created student record: Mario Rossi
+2022-04-05 14:29:44,017:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:29:44,017:INFO:Created student record: John Smith
+2022-04-05 14:29:44,017:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:29:44,017:INFO:Created student record: Tom Cruz
+2022-04-05 14:29:44,017:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:29:44,017:INFO:Created student record: Jim Beglin
+2022-04-05 14:29:44,017:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:29:44,033:INFO:Created student record: Peter Shmooks
+2022-04-05 14:29:44,033:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:29:44,033:INFO:Created student record: Hans Meier
+2022-04-05 14:29:44,033:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:29:44,033:INFO:Created student record: Jackie Brown
+2022-04-05 14:29:44,033:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:29:57,939:INFO:Created student record: Joe Soap
+2022-04-05 14:29:57,939:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:29:57,939:INFO:Created student record: Jane Doe
+2022-04-05 14:29:57,939:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:29:57,939:INFO:Created student record: Mary Poppins
+2022-04-05 14:29:57,939:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:29:57,939:INFO:Created student record: Mario Rossi
+2022-04-05 14:29:57,939:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:29:57,939:INFO:Created student record: John Smith
+2022-04-05 14:29:57,939:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:29:57,939:INFO:Created student record: Tom Cruz
+2022-04-05 14:29:57,939:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:29:57,939:INFO:Created student record: Jim Beglin
+2022-04-05 14:29:57,939:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:29:57,939:INFO:Created student record: Peter Shmooks
+2022-04-05 14:29:57,939:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:29:57,939:INFO:Created student record: Hans Meier
+2022-04-05 14:29:57,939:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:29:57,939:INFO:Created student record: Jackie Brown
+2022-04-05 14:29:57,939:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:30:27,663:INFO:Created student record: Joe Soap
+2022-04-05 14:30:27,663:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:30:27,663:INFO:Created student record: Jane Doe
+2022-04-05 14:30:27,663:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:30:27,664:INFO:Created student record: Mary Poppins
+2022-04-05 14:30:27,664:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:30:27,664:INFO:Created student record: Mario Rossi
+2022-04-05 14:30:27,664:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:30:27,665:INFO:Created student record: John Smith
+2022-04-05 14:30:27,665:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:30:27,665:INFO:Created student record: Tom Cruz
+2022-04-05 14:30:27,665:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:30:27,665:INFO:Created student record: Jim Beglin
+2022-04-05 14:30:27,665:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:30:27,666:INFO:Created student record: Peter Shmooks
+2022-04-05 14:30:27,666:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:30:27,667:INFO:Created student record: Hans Meier
+2022-04-05 14:30:27,667:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:30:27,667:INFO:Created student record: Jackie Brown
+2022-04-05 14:30:27,667:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:30:39,131:INFO:Created student record: Joe Soap
+2022-04-05 14:30:39,131:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:30:39,131:INFO:Created student record: Jane Doe
+2022-04-05 14:30:39,131:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:30:39,131:INFO:Created student record: Mary Poppins
+2022-04-05 14:30:39,131:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:30:39,132:INFO:Created student record: Mario Rossi
+2022-04-05 14:30:39,132:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:30:39,132:INFO:Created student record: John Smith
+2022-04-05 14:30:39,132:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:30:39,132:INFO:Created student record: Tom Cruz
+2022-04-05 14:30:39,133:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:30:39,133:INFO:Created student record: Jim Beglin
+2022-04-05 14:30:39,133:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:30:39,134:INFO:Created student record: Peter Shmooks
+2022-04-05 14:30:39,134:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:30:39,135:INFO:Created student record: Hans Meier
+2022-04-05 14:30:39,135:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:30:39,135:INFO:Created student record: Jackie Brown
+2022-04-05 14:30:39,135:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:33:53,812:INFO:Created student record: Joe Soap
+2022-04-05 14:33:53,812:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:33:53,812:INFO:Created student record: Jane Doe
+2022-04-05 14:33:53,812:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:33:53,813:INFO:Created student record: Mary Poppins
+2022-04-05 14:33:53,813:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:33:53,813:INFO:Created student record: Mario Rossi
+2022-04-05 14:33:53,813:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:33:53,814:INFO:Created student record: John Smith
+2022-04-05 14:33:53,814:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:33:53,814:INFO:Created student record: Tom Cruz
+2022-04-05 14:33:53,814:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:33:53,815:INFO:Created student record: Jim Beglin
+2022-04-05 14:33:53,815:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:33:53,815:INFO:Created student record: Peter Shmooks
+2022-04-05 14:33:53,815:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:33:53,816:INFO:Created student record: Hans Meier
+2022-04-05 14:33:53,816:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:33:53,816:INFO:Created student record: Jackie Brown
+2022-04-05 14:33:53,816:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:34:00,604:INFO:Created student record: Joe Soap
+2022-04-05 14:34:00,604:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:34:00,604:INFO:Created student record: Jane Doe
+2022-04-05 14:34:00,604:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:34:00,604:INFO:Created student record: Mary Poppins
+2022-04-05 14:34:00,604:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:34:00,604:INFO:Created student record: Mario Rossi
+2022-04-05 14:34:00,604:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:34:00,604:INFO:Created student record: John Smith
+2022-04-05 14:34:00,604:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:34:00,604:INFO:Created student record: Tom Cruz
+2022-04-05 14:34:00,604:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:34:00,604:INFO:Created student record: Jim Beglin
+2022-04-05 14:34:00,604:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:34:00,604:INFO:Created student record: Peter Shmooks
+2022-04-05 14:34:00,604:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:34:00,604:INFO:Created student record: Hans Meier
+2022-04-05 14:34:00,604:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:34:00,604:INFO:Created student record: Jackie Brown
+2022-04-05 14:34:00,604:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:35:43,003:INFO:Created student record: Joe Soap
+2022-04-05 14:35:43,003:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:35:43,004:INFO:Created student record: Jane Doe
+2022-04-05 14:35:43,004:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:35:43,005:INFO:Created student record: Mary Poppins
+2022-04-05 14:35:43,005:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:35:43,005:INFO:Created student record: Mario Rossi
+2022-04-05 14:35:43,005:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:35:43,006:INFO:Created student record: John Smith
+2022-04-05 14:35:43,006:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:35:43,006:INFO:Created student record: Tom Cruz
+2022-04-05 14:35:43,006:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:35:43,006:INFO:Created student record: Jim Beglin
+2022-04-05 14:35:43,006:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:35:43,007:INFO:Created student record: Peter Shmooks
+2022-04-05 14:35:43,007:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:35:43,007:INFO:Created student record: Hans Meier
+2022-04-05 14:35:43,007:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:35:43,008:INFO:Created student record: Jackie Brown
+2022-04-05 14:35:43,008:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:35:49,331:INFO:Created student record: Joe Soap
+2022-04-05 14:35:49,333:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:35:49,333:INFO:Created student record: Jane Doe
+2022-04-05 14:35:49,333:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:35:49,333:INFO:Created student record: Mary Poppins
+2022-04-05 14:35:49,333:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:35:49,333:INFO:Created student record: Mario Rossi
+2022-04-05 14:35:49,333:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:35:49,335:INFO:Created student record: John Smith
+2022-04-05 14:35:49,335:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:35:49,335:INFO:Created student record: Tom Cruz
+2022-04-05 14:35:49,335:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:35:49,336:INFO:Created student record: Jim Beglin
+2022-04-05 14:35:49,336:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:35:49,336:INFO:Created student record: Peter Shmooks
+2022-04-05 14:35:49,336:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:35:49,336:INFO:Created student record: Hans Meier
+2022-04-05 14:35:49,336:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:35:49,337:INFO:Created student record: Jackie Brown
+2022-04-05 14:35:49,337:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:36:41,071:INFO:Created student record: Joe Soap
+2022-04-05 14:36:41,071:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:36:41,071:INFO:Created student record: Jane Doe
+2022-04-05 14:36:41,071:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:36:41,071:INFO:Created student record: Mary Poppins
+2022-04-05 14:36:41,071:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:36:41,071:INFO:Created student record: Mario Rossi
+2022-04-05 14:36:41,071:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:36:41,071:INFO:Created student record: John Smith
+2022-04-05 14:36:41,071:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:36:41,071:INFO:Created student record: Tom Cruz
+2022-04-05 14:36:41,071:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:36:41,071:INFO:Created student record: Jim Beglin
+2022-04-05 14:36:41,071:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:36:41,071:INFO:Created student record: Peter Shmooks
+2022-04-05 14:36:41,071:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:36:41,079:INFO:Created student record: Hans Meier
+2022-04-05 14:36:41,079:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:36:41,079:INFO:Created student record: Jackie Brown
+2022-04-05 14:36:41,079:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:37:11,394:INFO:Created student record: Joe Soap
+2022-04-05 14:37:11,394:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:37:11,394:INFO:Created student record: Jane Doe
+2022-04-05 14:37:11,394:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:37:11,394:INFO:Created student record: Mary Poppins
+2022-04-05 14:37:11,394:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:37:11,394:INFO:Created student record: Mario Rossi
+2022-04-05 14:37:11,394:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:37:11,394:INFO:Created student record: John Smith
+2022-04-05 14:37:11,394:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:37:11,404:INFO:Created student record: Tom Cruz
+2022-04-05 14:37:11,404:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:37:11,404:INFO:Created student record: Jim Beglin
+2022-04-05 14:37:11,405:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:37:11,405:INFO:Created student record: Peter Shmooks
+2022-04-05 14:37:11,405:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:37:11,405:INFO:Created student record: Hans Meier
+2022-04-05 14:37:11,405:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:37:11,405:INFO:Created student record: Jackie Brown
+2022-04-05 14:37:11,405:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:37:29,702:INFO:Created student record: Joe Soap
+2022-04-05 14:37:29,702:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:37:29,703:INFO:Created student record: Jane Doe
+2022-04-05 14:37:29,703:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:37:29,703:INFO:Created student record: Mary Poppins
+2022-04-05 14:37:29,703:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:37:29,704:INFO:Created student record: Mario Rossi
+2022-04-05 14:37:29,704:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:37:29,704:INFO:Created student record: John Smith
+2022-04-05 14:37:29,704:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:37:29,705:INFO:Created student record: Tom Cruz
+2022-04-05 14:37:29,705:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:37:29,705:INFO:Created student record: Jim Beglin
+2022-04-05 14:37:29,705:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:37:29,706:INFO:Created student record: Peter Shmooks
+2022-04-05 14:37:29,706:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:37:29,706:INFO:Created student record: Hans Meier
+2022-04-05 14:37:29,706:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:37:29,707:INFO:Created student record: Jackie Brown
+2022-04-05 14:37:29,707:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:37:38,334:INFO:Created student record: Joe Soap
+2022-04-05 14:37:38,334:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:37:38,335:INFO:Created student record: Jane Doe
+2022-04-05 14:37:38,335:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:37:38,335:INFO:Created student record: Mary Poppins
+2022-04-05 14:37:38,335:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:37:38,336:INFO:Created student record: Mario Rossi
+2022-04-05 14:37:38,336:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:37:38,336:INFO:Created student record: John Smith
+2022-04-05 14:37:38,336:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:37:38,337:INFO:Created student record: Tom Cruz
+2022-04-05 14:37:38,337:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:37:38,337:INFO:Created student record: Jim Beglin
+2022-04-05 14:37:38,337:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:37:38,338:INFO:Created student record: Peter Shmooks
+2022-04-05 14:37:38,338:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:37:38,338:INFO:Created student record: Hans Meier
+2022-04-05 14:37:38,338:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:37:38,339:INFO:Created student record: Jackie Brown
+2022-04-05 14:37:38,339:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:37:54,090:INFO:Created student record: Joe Soap
+2022-04-05 14:37:54,090:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:37:54,090:INFO:Created student record: Jane Doe
+2022-04-05 14:37:54,090:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:37:54,090:INFO:Created student record: Mary Poppins
+2022-04-05 14:37:54,090:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:37:54,090:INFO:Created student record: Mario Rossi
+2022-04-05 14:37:54,090:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:37:54,090:INFO:Created student record: John Smith
+2022-04-05 14:37:54,090:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:37:54,090:INFO:Created student record: Tom Cruz
+2022-04-05 14:37:54,090:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:37:54,090:INFO:Created student record: Jim Beglin
+2022-04-05 14:37:54,090:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:37:54,090:INFO:Created student record: Peter Shmooks
+2022-04-05 14:37:54,090:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:37:54,090:INFO:Created student record: Hans Meier
+2022-04-05 14:37:54,090:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:37:54,090:INFO:Created student record: Jackie Brown
+2022-04-05 14:37:54,090:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:38:06,010:INFO:Created student record: Joe Soap
+2022-04-05 14:38:06,010:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:38:06,010:INFO:Created student record: Jane Doe
+2022-04-05 14:38:06,010:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:38:06,010:INFO:Created student record: Mary Poppins
+2022-04-05 14:38:06,010:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:38:06,010:INFO:Created student record: Mario Rossi
+2022-04-05 14:38:06,010:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:38:06,010:INFO:Created student record: John Smith
+2022-04-05 14:38:06,010:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:38:06,010:INFO:Created student record: Tom Cruz
+2022-04-05 14:38:06,010:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:38:06,010:INFO:Created student record: Jim Beglin
+2022-04-05 14:38:06,010:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:38:06,010:INFO:Created student record: Peter Shmooks
+2022-04-05 14:38:06,010:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:38:06,010:INFO:Created student record: Hans Meier
+2022-04-05 14:38:06,010:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:38:06,010:INFO:Created student record: Jackie Brown
+2022-04-05 14:38:06,010:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:38:20,850:INFO:Created student record: Joe Soap
+2022-04-05 14:38:20,850:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:38:20,850:INFO:Created student record: Jane Doe
+2022-04-05 14:38:20,850:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:38:20,850:INFO:Created student record: Mary Poppins
+2022-04-05 14:38:20,850:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:38:20,850:INFO:Created student record: Mario Rossi
+2022-04-05 14:38:20,850:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:38:20,850:INFO:Created student record: John Smith
+2022-04-05 14:38:20,850:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:38:20,850:INFO:Created student record: Tom Cruz
+2022-04-05 14:38:20,850:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:38:20,850:INFO:Created student record: Jim Beglin
+2022-04-05 14:38:20,850:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:38:20,850:INFO:Created student record: Peter Shmooks
+2022-04-05 14:38:20,850:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:38:20,850:INFO:Created student record: Hans Meier
+2022-04-05 14:38:20,850:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:38:20,850:INFO:Created student record: Jackie Brown
+2022-04-05 14:38:20,850:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:38:46,996:INFO:Created student record: Joe Soap
+2022-04-05 14:38:46,996:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:38:46,997:INFO:Created student record: Jane Doe
+2022-04-05 14:38:46,997:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:38:46,997:INFO:Created student record: Mary Poppins
+2022-04-05 14:38:46,997:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:38:46,998:INFO:Created student record: Mario Rossi
+2022-04-05 14:38:46,998:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:38:46,998:INFO:Created student record: John Smith
+2022-04-05 14:38:46,998:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:38:46,998:INFO:Created student record: Tom Cruz
+2022-04-05 14:38:46,998:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:38:46,999:INFO:Created student record: Jim Beglin
+2022-04-05 14:38:46,999:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:38:46,999:INFO:Created student record: Peter Shmooks
+2022-04-05 14:38:46,999:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:38:47,000:INFO:Created student record: Hans Meier
+2022-04-05 14:38:47,000:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:38:47,000:INFO:Created student record: Jackie Brown
+2022-04-05 14:38:47,000:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:39:05,219:INFO:Created student record: Joe Soap
+2022-04-05 14:39:05,219:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:39:05,219:INFO:Created student record: Jane Doe
+2022-04-05 14:39:05,219:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:39:05,219:INFO:Created student record: Mary Poppins
+2022-04-05 14:39:05,219:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:39:05,219:INFO:Created student record: Mario Rossi
+2022-04-05 14:39:05,219:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:39:05,219:INFO:Created student record: John Smith
+2022-04-05 14:39:05,219:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:39:05,219:INFO:Created student record: Tom Cruz
+2022-04-05 14:39:05,219:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:39:05,219:INFO:Created student record: Jim Beglin
+2022-04-05 14:39:05,219:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:39:05,219:INFO:Created student record: Peter Shmooks
+2022-04-05 14:39:05,219:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:39:05,219:INFO:Created student record: Hans Meier
+2022-04-05 14:39:05,219:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:39:05,219:INFO:Created student record: Jackie Brown
+2022-04-05 14:39:05,219:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:40:14,772:INFO:Created student record: Joe Soap
+2022-04-05 14:40:14,772:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:40:14,772:INFO:Created student record: Jane Doe
+2022-04-05 14:40:14,772:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:40:14,772:INFO:Created student record: Mary Poppins
+2022-04-05 14:40:14,772:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:40:14,772:INFO:Created student record: Mario Rossi
+2022-04-05 14:40:14,772:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:40:14,772:INFO:Created student record: John Smith
+2022-04-05 14:40:14,772:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:40:14,772:INFO:Created student record: Tom Cruz
+2022-04-05 14:40:14,772:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:40:14,772:INFO:Created student record: Jim Beglin
+2022-04-05 14:40:14,772:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:40:14,772:INFO:Created student record: Peter Shmooks
+2022-04-05 14:40:14,772:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:40:14,772:INFO:Created student record: Hans Meier
+2022-04-05 14:40:14,772:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:40:14,772:INFO:Created student record: Jackie Brown
+2022-04-05 14:40:14,772:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:41:59,277:INFO:Created student record: Joe Soap
+2022-04-05 14:41:59,277:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:41:59,278:INFO:Created student record: Jane Doe
+2022-04-05 14:41:59,278:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:41:59,278:INFO:Created student record: Mary Poppins
+2022-04-05 14:41:59,278:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:41:59,279:INFO:Created student record: Mario Rossi
+2022-04-05 14:41:59,279:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:41:59,279:INFO:Created student record: John Smith
+2022-04-05 14:41:59,279:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:41:59,279:INFO:Created student record: Tom Cruz
+2022-04-05 14:41:59,279:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:41:59,280:INFO:Created student record: Jim Beglin
+2022-04-05 14:41:59,280:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:41:59,280:INFO:Created student record: Peter Shmooks
+2022-04-05 14:41:59,280:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:41:59,281:INFO:Created student record: Hans Meier
+2022-04-05 14:41:59,281:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:41:59,281:INFO:Created student record: Jackie Brown
+2022-04-05 14:41:59,281:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:42:11,591:INFO:Created student record: Joe Soap
+2022-04-05 14:42:11,591:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:42:11,591:INFO:Created student record: Jane Doe
+2022-04-05 14:42:11,591:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:42:11,591:INFO:Created student record: Mary Poppins
+2022-04-05 14:42:11,591:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:42:11,591:INFO:Created student record: Mario Rossi
+2022-04-05 14:42:11,591:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:42:11,591:INFO:Created student record: John Smith
+2022-04-05 14:42:11,591:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:42:11,591:INFO:Created student record: Tom Cruz
+2022-04-05 14:42:11,591:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:42:11,591:INFO:Created student record: Jim Beglin
+2022-04-05 14:42:11,591:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:42:11,591:INFO:Created student record: Peter Shmooks
+2022-04-05 14:42:11,591:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:42:11,591:INFO:Created student record: Hans Meier
+2022-04-05 14:42:11,591:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:42:11,591:INFO:Created student record: Jackie Brown
+2022-04-05 14:42:11,591:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:42:18,278:INFO:Created student record: Joe Soap
+2022-04-05 14:42:18,278:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:42:18,278:INFO:Created student record: Jane Doe
+2022-04-05 14:42:18,278:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:42:18,279:INFO:Created student record: Mary Poppins
+2022-04-05 14:42:18,279:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:42:18,279:INFO:Created student record: Mario Rossi
+2022-04-05 14:42:18,280:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:42:18,280:INFO:Created student record: John Smith
+2022-04-05 14:42:18,280:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:42:18,281:INFO:Created student record: Tom Cruz
+2022-04-05 14:42:18,281:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:42:18,281:INFO:Created student record: Jim Beglin
+2022-04-05 14:42:18,281:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:42:18,281:INFO:Created student record: Peter Shmooks
+2022-04-05 14:42:18,282:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:42:18,282:INFO:Created student record: Hans Meier
+2022-04-05 14:42:18,282:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:42:18,283:INFO:Created student record: Jackie Brown
+2022-04-05 14:42:18,283:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:42:36,803:INFO:Created student record: Joe Soap
+2022-04-05 14:42:36,803:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:42:36,803:INFO:Created student record: Jane Doe
+2022-04-05 14:42:36,803:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:42:36,803:INFO:Created student record: Mary Poppins
+2022-04-05 14:42:36,803:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:42:36,819:INFO:Created student record: Mario Rossi
+2022-04-05 14:42:36,819:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:42:36,819:INFO:Created student record: John Smith
+2022-04-05 14:42:36,819:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:42:36,819:INFO:Created student record: Tom Cruz
+2022-04-05 14:42:36,819:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:42:36,819:INFO:Created student record: Jim Beglin
+2022-04-05 14:42:36,819:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:42:36,819:INFO:Created student record: Peter Shmooks
+2022-04-05 14:42:36,819:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:42:36,819:INFO:Created student record: Hans Meier
+2022-04-05 14:42:36,819:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:42:36,819:INFO:Created student record: Jackie Brown
+2022-04-05 14:42:36,819:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:44:37,758:INFO:Created student record: Joe Soap
+2022-04-05 14:44:37,758:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:44:37,758:INFO:Created student record: Jane Doe
+2022-04-05 14:44:37,758:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:44:37,758:INFO:Created student record: Mary Poppins
+2022-04-05 14:44:37,758:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:44:37,758:INFO:Created student record: Mario Rossi
+2022-04-05 14:44:37,758:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:44:37,758:INFO:Created student record: John Smith
+2022-04-05 14:44:37,758:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:44:37,758:INFO:Created student record: Tom Cruz
+2022-04-05 14:44:37,758:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:44:37,758:INFO:Created student record: Jim Beglin
+2022-04-05 14:44:37,758:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:44:37,758:INFO:Created student record: Peter Shmooks
+2022-04-05 14:44:37,758:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:44:37,758:INFO:Created student record: Hans Meier
+2022-04-05 14:44:37,758:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:44:37,758:INFO:Created student record: Jackie Brown
+2022-04-05 14:44:37,758:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:44:51,561:INFO:Created student record: Joe Soap
+2022-04-05 14:44:51,561:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:44:51,561:INFO:Created student record: Jane Doe
+2022-04-05 14:44:51,561:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:44:51,561:INFO:Created student record: Mary Poppins
+2022-04-05 14:44:51,561:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:44:51,561:INFO:Created student record: Mario Rossi
+2022-04-05 14:44:51,561:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:44:51,561:INFO:Created student record: John Smith
+2022-04-05 14:44:51,561:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:44:51,561:INFO:Created student record: Tom Cruz
+2022-04-05 14:44:51,561:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:44:51,561:INFO:Created student record: Jim Beglin
+2022-04-05 14:44:51,561:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:44:51,561:INFO:Created student record: Peter Shmooks
+2022-04-05 14:44:51,561:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:44:51,561:INFO:Created student record: Hans Meier
+2022-04-05 14:44:51,561:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:44:51,561:INFO:Created student record: Jackie Brown
+2022-04-05 14:44:51,561:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:45:16,350:INFO:Created student record: Joe Soap
+2022-04-05 14:45:16,350:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:45:16,350:INFO:Created student record: Jane Doe
+2022-04-05 14:45:16,350:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:45:16,350:INFO:Created student record: Mary Poppins
+2022-04-05 14:45:16,350:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:45:16,350:INFO:Created student record: Mario Rossi
+2022-04-05 14:45:16,350:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:45:16,350:INFO:Created student record: John Smith
+2022-04-05 14:45:16,350:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:45:16,350:INFO:Created student record: Tom Cruz
+2022-04-05 14:45:16,350:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:45:16,350:INFO:Created student record: Jim Beglin
+2022-04-05 14:45:16,350:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:45:16,350:INFO:Created student record: Peter Shmooks
+2022-04-05 14:45:16,350:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:45:16,350:INFO:Created student record: Hans Meier
+2022-04-05 14:45:16,350:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:45:16,350:INFO:Created student record: Jackie Brown
+2022-04-05 14:45:16,350:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:45:37,128:INFO:Created student record: Joe Soap
+2022-04-05 14:45:37,128:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:45:37,129:INFO:Created student record: Jane Doe
+2022-04-05 14:45:37,129:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:45:37,130:INFO:Created student record: Mary Poppins
+2022-04-05 14:45:37,130:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:45:37,130:INFO:Created student record: Mario Rossi
+2022-04-05 14:45:37,130:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:45:37,131:INFO:Created student record: John Smith
+2022-04-05 14:45:37,131:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:45:37,131:INFO:Created student record: Tom Cruz
+2022-04-05 14:45:37,131:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:45:37,132:INFO:Created student record: Jim Beglin
+2022-04-05 14:45:37,132:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:45:37,132:INFO:Created student record: Peter Shmooks
+2022-04-05 14:45:37,132:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:45:37,133:INFO:Created student record: Hans Meier
+2022-04-05 14:45:37,133:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:45:37,134:INFO:Created student record: Jackie Brown
+2022-04-05 14:45:37,134:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:46:03,532:INFO:Created student record: Joe Soap
+2022-04-05 14:46:03,532:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:46:03,532:INFO:Created student record: Jane Doe
+2022-04-05 14:46:03,532:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:46:03,532:INFO:Created student record: Mary Poppins
+2022-04-05 14:46:03,532:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:46:03,532:INFO:Created student record: Mario Rossi
+2022-04-05 14:46:03,532:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:46:03,532:INFO:Created student record: John Smith
+2022-04-05 14:46:03,532:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:46:03,532:INFO:Created student record: Tom Cruz
+2022-04-05 14:46:03,532:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:46:03,532:INFO:Created student record: Jim Beglin
+2022-04-05 14:46:03,532:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:46:03,532:INFO:Created student record: Peter Shmooks
+2022-04-05 14:46:03,532:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:46:03,532:INFO:Created student record: Hans Meier
+2022-04-05 14:46:03,532:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:46:03,532:INFO:Created student record: Jackie Brown
+2022-04-05 14:46:03,532:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:48:03,846:INFO:Created student record: Joe Soap
+2022-04-05 14:48:03,847:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:48:03,848:INFO:Created student record: Jane Doe
+2022-04-05 14:48:03,848:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:48:03,848:INFO:Created student record: Mary Poppins
+2022-04-05 14:48:03,848:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:48:03,848:INFO:Created student record: Mario Rossi
+2022-04-05 14:48:03,849:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:48:03,849:INFO:Created student record: John Smith
+2022-04-05 14:48:03,849:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:48:03,849:INFO:Created student record: Tom Cruz
+2022-04-05 14:48:03,849:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:48:03,850:INFO:Created student record: Jim Beglin
+2022-04-05 14:48:03,850:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:48:03,850:INFO:Created student record: Peter Shmooks
+2022-04-05 14:48:03,850:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:48:03,851:INFO:Created student record: Hans Meier
+2022-04-05 14:48:03,851:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:48:03,851:INFO:Created student record: Jackie Brown
+2022-04-05 14:48:03,851:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:48:13,459:INFO:Created student record: Joe Soap
+2022-04-05 14:48:13,459:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:48:13,460:INFO:Created student record: Jane Doe
+2022-04-05 14:48:13,460:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:48:13,461:INFO:Created student record: Mary Poppins
+2022-04-05 14:48:13,461:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:48:13,461:INFO:Created student record: Mario Rossi
+2022-04-05 14:48:13,461:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:48:13,462:INFO:Created student record: John Smith
+2022-04-05 14:48:13,462:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:48:13,462:INFO:Created student record: Tom Cruz
+2022-04-05 14:48:13,462:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:48:13,463:INFO:Created student record: Jim Beglin
+2022-04-05 14:48:13,463:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:48:13,463:INFO:Created student record: Peter Shmooks
+2022-04-05 14:48:13,463:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:48:13,464:INFO:Created student record: Hans Meier
+2022-04-05 14:48:13,464:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:48:13,464:INFO:Created student record: Jackie Brown
+2022-04-05 14:48:13,464:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:48:46,084:INFO:Created student record: Joe Soap
+2022-04-05 14:48:46,084:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:48:46,085:INFO:Created student record: Jane Doe
+2022-04-05 14:48:46,085:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:48:46,085:INFO:Created student record: Mary Poppins
+2022-04-05 14:48:46,085:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:48:46,086:INFO:Created student record: Mario Rossi
+2022-04-05 14:48:46,086:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:48:46,086:INFO:Created student record: John Smith
+2022-04-05 14:48:46,086:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:48:46,087:INFO:Created student record: Tom Cruz
+2022-04-05 14:48:46,087:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:48:46,087:INFO:Created student record: Jim Beglin
+2022-04-05 14:48:46,087:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:48:46,087:INFO:Created student record: Peter Shmooks
+2022-04-05 14:48:46,088:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:48:46,088:INFO:Created student record: Hans Meier
+2022-04-05 14:48:46,088:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:48:46,089:INFO:Created student record: Jackie Brown
+2022-04-05 14:48:46,089:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:48:57,100:INFO:Created student record: Joe Soap
+2022-04-05 14:48:57,100:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:48:57,100:INFO:Created student record: Jane Doe
+2022-04-05 14:48:57,100:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:48:57,100:INFO:Created student record: Mary Poppins
+2022-04-05 14:48:57,100:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:48:57,100:INFO:Created student record: Mario Rossi
+2022-04-05 14:48:57,100:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:48:57,100:INFO:Created student record: John Smith
+2022-04-05 14:48:57,100:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:48:57,100:INFO:Created student record: Tom Cruz
+2022-04-05 14:48:57,100:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:48:57,100:INFO:Created student record: Jim Beglin
+2022-04-05 14:48:57,100:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:48:57,100:INFO:Created student record: Peter Shmooks
+2022-04-05 14:48:57,100:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:48:57,100:INFO:Created student record: Hans Meier
+2022-04-05 14:48:57,100:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:48:57,100:INFO:Created student record: Jackie Brown
+2022-04-05 14:48:57,100:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:49:21,270:INFO:Created student record: Joe Soap
+2022-04-05 14:49:21,270:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:49:21,270:INFO:Created student record: Jane Doe
+2022-04-05 14:49:21,270:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:49:21,270:INFO:Created student record: Mary Poppins
+2022-04-05 14:49:21,270:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:49:21,270:INFO:Created student record: Mario Rossi
+2022-04-05 14:49:21,270:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:49:21,270:INFO:Created student record: John Smith
+2022-04-05 14:49:21,270:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:49:21,270:INFO:Created student record: Tom Cruz
+2022-04-05 14:49:21,270:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:49:21,270:INFO:Created student record: Jim Beglin
+2022-04-05 14:49:21,270:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:49:21,270:INFO:Created student record: Peter Shmooks
+2022-04-05 14:49:21,270:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:49:21,270:INFO:Created student record: Hans Meier
+2022-04-05 14:49:21,270:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:49:21,270:INFO:Created student record: Jackie Brown
+2022-04-05 14:49:21,270:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:49:34,365:INFO:Created student record: Joe Soap
+2022-04-05 14:49:34,365:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:49:34,365:INFO:Created student record: Jane Doe
+2022-04-05 14:49:34,365:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:49:34,366:INFO:Created student record: Mary Poppins
+2022-04-05 14:49:34,366:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:49:34,366:INFO:Created student record: Mario Rossi
+2022-04-05 14:49:34,366:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:49:34,367:INFO:Created student record: John Smith
+2022-04-05 14:49:34,367:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:49:34,367:INFO:Created student record: Tom Cruz
+2022-04-05 14:49:34,367:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:49:34,367:INFO:Created student record: Jim Beglin
+2022-04-05 14:49:34,368:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:49:34,368:INFO:Created student record: Peter Shmooks
+2022-04-05 14:49:34,368:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:49:34,368:INFO:Created student record: Hans Meier
+2022-04-05 14:49:34,368:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:49:34,369:INFO:Created student record: Jackie Brown
+2022-04-05 14:49:34,369:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:49:47,241:INFO:Created student record: Joe Soap
+2022-04-05 14:49:47,241:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:49:47,241:INFO:Created student record: Jane Doe
+2022-04-05 14:49:47,241:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:49:47,241:INFO:Created student record: Mary Poppins
+2022-04-05 14:49:47,241:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:49:47,241:INFO:Created student record: Mario Rossi
+2022-04-05 14:49:47,241:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:49:47,241:INFO:Created student record: John Smith
+2022-04-05 14:49:47,241:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:49:47,241:INFO:Created student record: Tom Cruz
+2022-04-05 14:49:47,241:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:49:47,241:INFO:Created student record: Jim Beglin
+2022-04-05 14:49:47,241:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:49:47,257:INFO:Created student record: Peter Shmooks
+2022-04-05 14:49:47,257:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:49:47,257:INFO:Created student record: Hans Meier
+2022-04-05 14:49:47,257:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:49:47,258:INFO:Created student record: Jackie Brown
+2022-04-05 14:49:47,258:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:51:01,395:INFO:Created student record: Joe Soap
+2022-04-05 14:51:01,395:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:51:01,396:INFO:Created student record: Jane Doe
+2022-04-05 14:51:01,396:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:51:01,396:INFO:Created student record: Mary Poppins
+2022-04-05 14:51:01,396:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:51:01,397:INFO:Created student record: Mario Rossi
+2022-04-05 14:51:01,397:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:51:01,398:INFO:Created student record: John Smith
+2022-04-05 14:51:01,398:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:51:01,398:INFO:Created student record: Tom Cruz
+2022-04-05 14:51:01,398:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:51:01,399:INFO:Created student record: Jim Beglin
+2022-04-05 14:51:01,399:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:51:01,399:INFO:Created student record: Peter Shmooks
+2022-04-05 14:51:01,399:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:51:01,400:INFO:Created student record: Hans Meier
+2022-04-05 14:51:01,400:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:51:01,400:INFO:Created student record: Jackie Brown
+2022-04-05 14:51:01,400:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:51:08,190:INFO:Created student record: Joe Soap
+2022-04-05 14:51:08,190:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:51:08,190:INFO:Created student record: Jane Doe
+2022-04-05 14:51:08,190:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:51:08,190:INFO:Created student record: Mary Poppins
+2022-04-05 14:51:08,190:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:51:08,190:INFO:Created student record: Mario Rossi
+2022-04-05 14:51:08,190:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:51:08,190:INFO:Created student record: John Smith
+2022-04-05 14:51:08,190:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:51:08,190:INFO:Created student record: Tom Cruz
+2022-04-05 14:51:08,190:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:51:08,190:INFO:Created student record: Jim Beglin
+2022-04-05 14:51:08,190:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:51:08,190:INFO:Created student record: Peter Shmooks
+2022-04-05 14:51:08,190:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:51:08,190:INFO:Created student record: Hans Meier
+2022-04-05 14:51:08,190:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:51:08,190:INFO:Created student record: Jackie Brown
+2022-04-05 14:51:08,190:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:51:32,058:INFO:Created student record: Joe Soap
+2022-04-05 14:51:32,058:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:51:32,058:INFO:Created student record: Jane Doe
+2022-04-05 14:51:32,058:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:51:32,058:INFO:Created student record: Mary Poppins
+2022-04-05 14:51:32,058:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:51:32,127:INFO:Created student record: Mario Rossi
+2022-04-05 14:51:32,127:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:51:32,127:INFO:Created student record: John Smith
+2022-04-05 14:51:32,127:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:51:32,128:INFO:Created student record: Tom Cruz
+2022-04-05 14:51:32,128:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:51:32,128:INFO:Created student record: Jim Beglin
+2022-04-05 14:51:32,128:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:51:32,129:INFO:Created student record: Peter Shmooks
+2022-04-05 14:51:32,129:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:51:32,129:INFO:Created student record: Hans Meier
+2022-04-05 14:51:32,129:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:51:32,129:INFO:Created student record: Jackie Brown
+2022-04-05 14:51:32,130:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:51:48,915:INFO:Created student record: Joe Soap
+2022-04-05 14:51:48,916:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:51:48,916:INFO:Created student record: Jane Doe
+2022-04-05 14:51:48,916:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:51:48,917:INFO:Created student record: Mary Poppins
+2022-04-05 14:51:48,917:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:51:48,917:INFO:Created student record: Mario Rossi
+2022-04-05 14:51:48,917:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:51:48,918:INFO:Created student record: John Smith
+2022-04-05 14:51:48,918:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:51:48,918:INFO:Created student record: Tom Cruz
+2022-04-05 14:51:48,918:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:51:48,919:INFO:Created student record: Jim Beglin
+2022-04-05 14:51:48,919:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:51:48,919:INFO:Created student record: Peter Shmooks
+2022-04-05 14:51:48,920:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:51:48,920:INFO:Created student record: Hans Meier
+2022-04-05 14:51:48,920:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:51:48,921:INFO:Created student record: Jackie Brown
+2022-04-05 14:51:48,921:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:52:02,736:INFO:Created student record: Joe Soap
+2022-04-05 14:52:02,737:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:52:02,737:INFO:Created student record: Jane Doe
+2022-04-05 14:52:02,737:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:52:02,738:INFO:Created student record: Mary Poppins
+2022-04-05 14:52:02,738:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:52:02,738:INFO:Created student record: Mario Rossi
+2022-04-05 14:52:02,738:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:52:02,739:INFO:Created student record: John Smith
+2022-04-05 14:52:02,739:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:52:02,739:INFO:Created student record: Tom Cruz
+2022-04-05 14:52:02,739:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:52:02,739:INFO:Created student record: Jim Beglin
+2022-04-05 14:52:02,739:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:52:02,740:INFO:Created student record: Peter Shmooks
+2022-04-05 14:52:02,740:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:52:02,740:INFO:Created student record: Hans Meier
+2022-04-05 14:52:02,740:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:52:02,741:INFO:Created student record: Jackie Brown
+2022-04-05 14:52:02,741:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:52:21,488:INFO:Created student record: Joe Soap
+2022-04-05 14:52:21,488:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:52:21,488:INFO:Created student record: Jane Doe
+2022-04-05 14:52:21,488:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:52:21,488:INFO:Created student record: Mary Poppins
+2022-04-05 14:52:21,488:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:52:21,488:INFO:Created student record: Mario Rossi
+2022-04-05 14:52:21,488:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:52:21,488:INFO:Created student record: John Smith
+2022-04-05 14:52:21,488:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:52:21,488:INFO:Created student record: Tom Cruz
+2022-04-05 14:52:21,488:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:52:21,488:INFO:Created student record: Jim Beglin
+2022-04-05 14:52:21,488:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:52:21,488:INFO:Created student record: Peter Shmooks
+2022-04-05 14:52:21,488:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:52:21,488:INFO:Created student record: Hans Meier
+2022-04-05 14:52:21,488:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:52:21,488:INFO:Created student record: Jackie Brown
+2022-04-05 14:52:21,488:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:52:40,295:INFO:Created student record: Joe Soap
+2022-04-05 14:52:40,296:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:52:40,296:INFO:Created student record: Jane Doe
+2022-04-05 14:52:40,296:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:52:40,297:INFO:Created student record: Mary Poppins
+2022-04-05 14:52:40,297:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:52:40,297:INFO:Created student record: Mario Rossi
+2022-04-05 14:52:40,297:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:52:40,298:INFO:Created student record: John Smith
+2022-04-05 14:52:40,298:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:52:40,298:INFO:Created student record: Tom Cruz
+2022-04-05 14:52:40,298:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:52:40,298:INFO:Created student record: Jim Beglin
+2022-04-05 14:52:40,298:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:52:40,299:INFO:Created student record: Peter Shmooks
+2022-04-05 14:52:40,299:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:52:40,299:INFO:Created student record: Hans Meier
+2022-04-05 14:52:40,299:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:52:40,300:INFO:Created student record: Jackie Brown
+2022-04-05 14:52:40,300:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:52:46,923:INFO:Created student record: Joe Soap
+2022-04-05 14:52:46,923:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:52:46,923:INFO:Created student record: Jane Doe
+2022-04-05 14:52:46,923:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:52:46,923:INFO:Created student record: Mary Poppins
+2022-04-05 14:52:46,923:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:52:46,923:INFO:Created student record: Mario Rossi
+2022-04-05 14:52:46,923:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:52:46,923:INFO:Created student record: John Smith
+2022-04-05 14:52:46,923:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:52:46,923:INFO:Created student record: Tom Cruz
+2022-04-05 14:52:46,923:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:52:46,923:INFO:Created student record: Jim Beglin
+2022-04-05 14:52:46,923:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:52:46,923:INFO:Created student record: Peter Shmooks
+2022-04-05 14:52:46,923:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:52:46,923:INFO:Created student record: Hans Meier
+2022-04-05 14:52:46,923:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:52:46,923:INFO:Created student record: Jackie Brown
+2022-04-05 14:52:46,923:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:53:20,421:INFO:Created student record: Joe Soap
+2022-04-05 14:53:20,421:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:53:20,421:INFO:Created student record: Jane Doe
+2022-04-05 14:53:20,421:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:53:20,421:INFO:Created student record: Mary Poppins
+2022-04-05 14:53:20,421:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:53:20,421:INFO:Created student record: Mario Rossi
+2022-04-05 14:53:20,421:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:53:20,421:INFO:Created student record: John Smith
+2022-04-05 14:53:20,421:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:53:20,421:INFO:Created student record: Tom Cruz
+2022-04-05 14:53:20,421:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:53:20,421:INFO:Created student record: Jim Beglin
+2022-04-05 14:53:20,421:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:53:20,421:INFO:Created student record: Peter Shmooks
+2022-04-05 14:53:20,421:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:53:20,421:INFO:Created student record: Hans Meier
+2022-04-05 14:53:20,421:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:53:20,421:INFO:Created student record: Jackie Brown
+2022-04-05 14:53:20,421:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:53:32,589:INFO:Created student record: Joe Soap
+2022-04-05 14:53:32,589:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:53:32,590:INFO:Created student record: Jane Doe
+2022-04-05 14:53:32,590:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:53:32,590:INFO:Created student record: Mary Poppins
+2022-04-05 14:53:32,590:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:53:32,590:INFO:Created student record: Mario Rossi
+2022-04-05 14:53:32,591:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:53:32,591:INFO:Created student record: John Smith
+2022-04-05 14:53:32,591:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:53:32,591:INFO:Created student record: Tom Cruz
+2022-04-05 14:53:32,591:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:53:32,592:INFO:Created student record: Jim Beglin
+2022-04-05 14:53:32,592:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:53:32,592:INFO:Created student record: Peter Shmooks
+2022-04-05 14:53:32,592:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:53:32,593:INFO:Created student record: Hans Meier
+2022-04-05 14:53:32,593:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:53:32,594:INFO:Created student record: Jackie Brown
+2022-04-05 14:53:32,594:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:53:54,818:INFO:Created student record: Joe Soap
+2022-04-05 14:53:54,819:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:53:54,819:INFO:Created student record: Jane Doe
+2022-04-05 14:53:54,819:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:53:54,820:INFO:Created student record: Mary Poppins
+2022-04-05 14:53:54,820:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:53:54,820:INFO:Created student record: Mario Rossi
+2022-04-05 14:53:54,820:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:53:54,821:INFO:Created student record: John Smith
+2022-04-05 14:53:54,821:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:53:54,821:INFO:Created student record: Tom Cruz
+2022-04-05 14:53:54,821:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:53:54,821:INFO:Created student record: Jim Beglin
+2022-04-05 14:53:54,821:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:53:54,822:INFO:Created student record: Peter Shmooks
+2022-04-05 14:53:54,822:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:53:54,822:INFO:Created student record: Hans Meier
+2022-04-05 14:53:54,822:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:53:54,822:INFO:Created student record: Jackie Brown
+2022-04-05 14:53:54,823:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:54:01,539:INFO:Created student record: Joe Soap
+2022-04-05 14:54:01,539:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:54:01,540:INFO:Created student record: Jane Doe
+2022-04-05 14:54:01,540:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:54:01,540:INFO:Created student record: Mary Poppins
+2022-04-05 14:54:01,540:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:54:01,541:INFO:Created student record: Mario Rossi
+2022-04-05 14:54:01,541:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:54:01,541:INFO:Created student record: John Smith
+2022-04-05 14:54:01,541:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:54:01,541:INFO:Created student record: Tom Cruz
+2022-04-05 14:54:01,542:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:54:01,542:INFO:Created student record: Jim Beglin
+2022-04-05 14:54:01,542:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:54:01,542:INFO:Created student record: Peter Shmooks
+2022-04-05 14:54:01,542:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:54:01,542:INFO:Created student record: Hans Meier
+2022-04-05 14:54:01,542:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:54:01,542:INFO:Created student record: Jackie Brown
+2022-04-05 14:54:01,542:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:54:47,690:INFO:Created student record: Joe Soap
+2022-04-05 14:54:47,690:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:54:47,691:INFO:Created student record: Jane Doe
+2022-04-05 14:54:47,691:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:54:47,691:INFO:Created student record: Mary Poppins
+2022-04-05 14:54:47,691:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:54:47,691:INFO:Created student record: Mario Rossi
+2022-04-05 14:54:47,692:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:54:47,693:INFO:Created student record: John Smith
+2022-04-05 14:54:47,693:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:54:47,693:INFO:Created student record: Tom Cruz
+2022-04-05 14:54:47,693:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:54:47,693:INFO:Created student record: Jim Beglin
+2022-04-05 14:54:47,693:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:54:47,693:INFO:Created student record: Peter Shmooks
+2022-04-05 14:54:47,693:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:54:47,693:INFO:Created student record: Hans Meier
+2022-04-05 14:54:47,693:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:54:47,693:INFO:Created student record: Jackie Brown
+2022-04-05 14:54:47,693:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:55:42,352:INFO:Created student record: Joe Soap
+2022-04-05 14:55:42,353:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:55:42,353:INFO:Created student record: Jane Doe
+2022-04-05 14:55:42,353:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:55:42,354:INFO:Created student record: Mary Poppins
+2022-04-05 14:55:42,354:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:55:42,354:INFO:Created student record: Mario Rossi
+2022-04-05 14:55:42,354:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:55:42,355:INFO:Created student record: John Smith
+2022-04-05 14:55:42,355:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:55:42,355:INFO:Created student record: Tom Cruz
+2022-04-05 14:55:42,355:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:55:42,355:INFO:Created student record: Jim Beglin
+2022-04-05 14:55:42,356:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:55:42,356:INFO:Created student record: Peter Shmooks
+2022-04-05 14:55:42,356:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:55:42,357:INFO:Created student record: Hans Meier
+2022-04-05 14:55:42,357:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:55:42,357:INFO:Created student record: Jackie Brown
+2022-04-05 14:55:42,357:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:56:06,250:INFO:Created student record: Joe Soap
+2022-04-05 14:56:06,250:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:56:06,251:INFO:Created student record: Jane Doe
+2022-04-05 14:56:06,251:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:56:06,251:INFO:Created student record: Mary Poppins
+2022-04-05 14:56:06,251:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:56:06,252:INFO:Created student record: Mario Rossi
+2022-04-05 14:56:06,252:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:56:06,252:INFO:Created student record: John Smith
+2022-04-05 14:56:06,252:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:56:06,253:INFO:Created student record: Tom Cruz
+2022-04-05 14:56:06,253:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:56:06,253:INFO:Created student record: Jim Beglin
+2022-04-05 14:56:06,253:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:56:06,254:INFO:Created student record: Peter Shmooks
+2022-04-05 14:56:06,254:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:56:06,254:INFO:Created student record: Hans Meier
+2022-04-05 14:56:06,254:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:56:06,255:INFO:Created student record: Jackie Brown
+2022-04-05 14:56:06,255:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:56:26,701:INFO:Created student record: Joe Soap
+2022-04-05 14:56:26,701:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:56:26,702:INFO:Created student record: Jane Doe
+2022-04-05 14:56:26,702:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:56:26,702:INFO:Created student record: Mary Poppins
+2022-04-05 14:56:26,702:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:56:26,703:INFO:Created student record: Mario Rossi
+2022-04-05 14:56:26,703:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:56:26,703:INFO:Created student record: John Smith
+2022-04-05 14:56:26,703:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:56:26,703:INFO:Created student record: Tom Cruz
+2022-04-05 14:56:26,704:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:56:26,704:INFO:Created student record: Jim Beglin
+2022-04-05 14:56:26,704:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:56:26,704:INFO:Created student record: Peter Shmooks
+2022-04-05 14:56:26,704:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:56:26,705:INFO:Created student record: Hans Meier
+2022-04-05 14:56:26,705:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:56:26,705:INFO:Created student record: Jackie Brown
+2022-04-05 14:56:26,705:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:56:35,817:INFO:Created student record: Joe Soap
+2022-04-05 14:56:35,818:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:56:35,818:INFO:Created student record: Jane Doe
+2022-04-05 14:56:35,818:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:56:35,819:INFO:Created student record: Mary Poppins
+2022-04-05 14:56:35,819:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:56:35,819:INFO:Created student record: Mario Rossi
+2022-04-05 14:56:35,819:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:56:35,820:INFO:Created student record: John Smith
+2022-04-05 14:56:35,820:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:56:35,820:INFO:Created student record: Tom Cruz
+2022-04-05 14:56:35,820:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:56:35,821:INFO:Created student record: Jim Beglin
+2022-04-05 14:56:35,821:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:56:35,821:INFO:Created student record: Peter Shmooks
+2022-04-05 14:56:35,821:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:56:35,821:INFO:Created student record: Hans Meier
+2022-04-05 14:56:35,821:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:56:35,822:INFO:Created student record: Jackie Brown
+2022-04-05 14:56:35,822:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:56:46,531:INFO:Created student record: Joe Soap
+2022-04-05 14:56:46,531:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:56:46,532:INFO:Created student record: Jane Doe
+2022-04-05 14:56:46,532:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:56:46,532:INFO:Created student record: Mary Poppins
+2022-04-05 14:56:46,532:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:56:46,533:INFO:Created student record: Mario Rossi
+2022-04-05 14:56:46,533:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:56:46,533:INFO:Created student record: John Smith
+2022-04-05 14:56:46,533:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:56:46,534:INFO:Created student record: Tom Cruz
+2022-04-05 14:56:46,534:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:56:46,534:INFO:Created student record: Jim Beglin
+2022-04-05 14:56:46,534:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:56:46,535:INFO:Created student record: Peter Shmooks
+2022-04-05 14:56:46,535:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:56:46,535:INFO:Created student record: Hans Meier
+2022-04-05 14:56:46,536:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:56:46,536:INFO:Created student record: Jackie Brown
+2022-04-05 14:56:46,536:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:56:57,672:INFO:Created student record: Joe Soap
+2022-04-05 14:56:57,672:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:56:57,672:INFO:Created student record: Jane Doe
+2022-04-05 14:56:57,672:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:56:57,687:INFO:Created student record: Mary Poppins
+2022-04-05 14:56:57,687:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:56:57,687:INFO:Created student record: Mario Rossi
+2022-04-05 14:56:57,687:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:56:57,687:INFO:Created student record: John Smith
+2022-04-05 14:56:57,687:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:56:57,687:INFO:Created student record: Tom Cruz
+2022-04-05 14:56:57,687:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:56:57,687:INFO:Created student record: Jim Beglin
+2022-04-05 14:56:57,687:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:56:57,687:INFO:Created student record: Peter Shmooks
+2022-04-05 14:56:57,687:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:56:57,687:INFO:Created student record: Hans Meier
+2022-04-05 14:56:57,687:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:56:57,687:INFO:Created student record: Jackie Brown
+2022-04-05 14:56:57,687:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:57:24,430:INFO:Created student record: Joe Soap
+2022-04-05 14:57:24,430:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:57:24,431:INFO:Created student record: Jane Doe
+2022-04-05 14:57:24,431:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:57:24,431:INFO:Created student record: Mary Poppins
+2022-04-05 14:57:24,431:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:57:24,432:INFO:Created student record: Mario Rossi
+2022-04-05 14:57:24,432:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:57:24,432:INFO:Created student record: John Smith
+2022-04-05 14:57:24,432:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:57:24,432:INFO:Created student record: Tom Cruz
+2022-04-05 14:57:24,433:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:57:24,433:INFO:Created student record: Jim Beglin
+2022-04-05 14:57:24,433:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:57:24,433:INFO:Created student record: Peter Shmooks
+2022-04-05 14:57:24,433:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:57:24,434:INFO:Created student record: Hans Meier
+2022-04-05 14:57:24,434:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:57:24,434:INFO:Created student record: Jackie Brown
+2022-04-05 14:57:24,434:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:57:30,224:INFO:Created student record: Joe Soap
+2022-04-05 14:57:30,224:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:57:30,224:INFO:Created student record: Jane Doe
+2022-04-05 14:57:30,224:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:57:30,224:INFO:Created student record: Mary Poppins
+2022-04-05 14:57:30,224:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:57:30,224:INFO:Created student record: Mario Rossi
+2022-04-05 14:57:30,224:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:57:30,224:INFO:Created student record: John Smith
+2022-04-05 14:57:30,224:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:57:30,224:INFO:Created student record: Tom Cruz
+2022-04-05 14:57:30,224:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:57:30,224:INFO:Created student record: Jim Beglin
+2022-04-05 14:57:30,224:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:57:30,224:INFO:Created student record: Peter Shmooks
+2022-04-05 14:57:30,224:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:57:30,224:INFO:Created student record: Hans Meier
+2022-04-05 14:57:30,224:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:57:30,224:INFO:Created student record: Jackie Brown
+2022-04-05 14:57:30,224:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:57:51,738:INFO:Created student record: Joe Soap
+2022-04-05 14:57:51,738:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:57:51,739:INFO:Created student record: Jane Doe
+2022-04-05 14:57:51,739:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:57:51,739:INFO:Created student record: Mary Poppins
+2022-04-05 14:57:51,739:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:57:51,740:INFO:Created student record: Mario Rossi
+2022-04-05 14:57:51,740:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:57:51,740:INFO:Created student record: John Smith
+2022-04-05 14:57:51,740:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:57:51,741:INFO:Created student record: Tom Cruz
+2022-04-05 14:57:51,741:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:57:51,742:INFO:Created student record: Jim Beglin
+2022-04-05 14:57:51,742:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:57:51,742:INFO:Created student record: Peter Shmooks
+2022-04-05 14:57:51,742:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:57:51,743:INFO:Created student record: Hans Meier
+2022-04-05 14:57:51,743:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:57:51,743:INFO:Created student record: Jackie Brown
+2022-04-05 14:57:51,743:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:58:10,828:INFO:Created student record: Joe Soap
+2022-04-05 14:58:10,829:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:58:10,829:INFO:Created student record: Jane Doe
+2022-04-05 14:58:10,829:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:58:10,830:INFO:Created student record: Mary Poppins
+2022-04-05 14:58:10,830:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:58:10,830:INFO:Created student record: Mario Rossi
+2022-04-05 14:58:10,830:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:58:10,831:INFO:Created student record: John Smith
+2022-04-05 14:58:10,831:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:58:10,831:INFO:Created student record: Tom Cruz
+2022-04-05 14:58:10,831:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:58:10,831:INFO:Created student record: Jim Beglin
+2022-04-05 14:58:10,831:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:58:10,832:INFO:Created student record: Peter Shmooks
+2022-04-05 14:58:10,832:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:58:10,832:INFO:Created student record: Hans Meier
+2022-04-05 14:58:10,833:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:58:10,833:INFO:Created student record: Jackie Brown
+2022-04-05 14:58:10,834:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:58:22,707:INFO:Created student record: Joe Soap
+2022-04-05 14:58:22,707:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:58:22,708:INFO:Created student record: Jane Doe
+2022-04-05 14:58:22,708:DEBUG:Created average marks and grades check: 83 - A
+2022-04-05 14:58:22,708:INFO:Created student record: Mary Poppins
+2022-04-05 14:58:22,709:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:58:22,709:INFO:Created student record: Mario Rossi
+2022-04-05 14:58:22,709:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:58:22,709:INFO:Created student record: John Smith
+2022-04-05 14:58:22,709:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:58:22,710:INFO:Created student record: Tom Cruz
+2022-04-05 14:58:22,710:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:58:22,710:INFO:Created student record: Jim Beglin
+2022-04-05 14:58:22,710:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:58:22,710:INFO:Created student record: Peter Shmooks
+2022-04-05 14:58:22,710:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:58:22,711:INFO:Created student record: Hans Meier
+2022-04-05 14:58:22,711:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:58:22,711:INFO:Created student record: Jackie Brown
+2022-04-05 14:58:22,711:DEBUG:Created average marks and grades check: 86.8 - A
+2022-04-05 14:58:44,352:INFO:Created student record: Joe Soap
+2022-04-05 14:58:44,352:DEBUG:Created average marks and grades check: 75.5 - B
+2022-04-05 14:58:44,353:INFO:Created student record: Jane Doe
+2022-04-05 14:58:44,353:DEBUG:Created average marks and grades check: 83 - Z
+2022-04-05 14:58:44,354:INFO:Created student record: Mary Poppins
+2022-04-05 14:58:44,354:DEBUG:Created average marks and grades check: 62.8 - C
+2022-04-05 14:58:44,354:INFO:Created student record: Mario Rossi
+2022-04-05 14:58:44,354:DEBUG:Created average marks and grades check: 39.8 - F
+2022-04-05 14:58:44,355:INFO:Created student record: John Smith
+2022-04-05 14:58:44,355:DEBUG:Created average marks and grades check: 66.8 - C
+2022-04-05 14:58:44,355:INFO:Created student record: Tom Cruz
+2022-04-05 14:58:44,355:DEBUG:Created average marks and grades check: 63.8 - C
+2022-04-05 14:58:44,355:INFO:Created student record: Jim Beglin
+2022-04-05 14:58:44,355:DEBUG:Created average marks and grades check: 48.2 - E
+2022-04-05 14:58:44,356:INFO:Created student record: Peter Shmooks
+2022-04-05 14:58:44,356:DEBUG:Created average marks and grades check: 58.5 - D
+2022-04-05 14:58:44,356:INFO:Created student record: Hans Meier
+2022-04-05 14:58:44,356:DEBUG:Created average marks and grades check: 75.8 - B
+2022-04-05 14:58:44,356:INFO:Created student record: Jackie Brown
+2022-04-05 14:58:44,356:DEBUG:Created average marks and grades check: 86.8 - Z
